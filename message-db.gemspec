@@ -11,6 +11,6 @@ Gem::Specification.new do |s|
   s.licenses = ['MIT']
 
   s.files = Dir.glob('{database}/**/*')
-  s.executables = Dir.glob('scripts/evt-*').map(&File.method(:basename))
+  s.executables = Dir.glob('scripts/mdb-*').map(&File.method(:basename))
   s.bindir = 'scripts'
 end
