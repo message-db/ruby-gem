@@ -5,3 +5,4 @@ Gemfile.lock
 gems
 *scratch*
 database
+message-db-*
