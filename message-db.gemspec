@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 Gem::Specification.new do |s|
   s.name = 'message-db'
-  s.version = '1.0.0'
+  s.version = '1.1.0'
   s.summary = 'Microservice native event store and message store for Postgres'
   s.description = ' '
 
