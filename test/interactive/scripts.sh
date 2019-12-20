@@ -23,4 +23,4 @@ scripts/mdb-install-indexes
 scripts/mdb-install-privileges
 scripts/mdb-install-views
 
-scripts/mdb-open-database-scripts-dir
+scripts/mdb-print-database-scripts-dir
