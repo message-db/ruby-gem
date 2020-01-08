@@ -80,4 +80,4 @@ DATABASE_NAME=some_other_database bundle exec mdb-create-db
 
 ## License
 
-The `message-db` library is released under the [MIT License](https://github.com/eventide-project/message-db/blob/master/MIT-License.txt).
+The `message-db` library is released under the [MIT License](https://github.com/message-db/ruby-gem/blob/master/MIT-License.txt).
