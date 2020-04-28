@@ -1,5 +1,13 @@
 # Changes
 
+## 2.1.0
+
+Mon Apr 27 2020
+
+Message DB compatibility: [1.2.0](https://github.com/message-db/message-db/releases/tag/v1.2.0)
+
+- Install script will not create the database when the CREATE_DATABASE environment variable is set to "off"
+
 ## 2.0.2
 
 Mon Jan 6 2020
