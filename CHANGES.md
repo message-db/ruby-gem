@@ -4,6 +4,8 @@
 
 Mon May 4 2020
 
+Message DB compatibility: [1.2.2](https://github.com/message-db/message-db/releases/tag/v1.2.2)
+
 This version requires the use of an update script for existing installations. For instructions, see:
 
 [https://github.com/message-db/message-db/blob/master/database/update/1.2.2.md](https://github.com/message-db/message-db/blob/master/database/update/1.2.2.md)
