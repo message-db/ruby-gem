@@ -2,7 +2,7 @@
 
 ## 2.1.4
 
-Sun Mar 7 2020
+Sun Mar 7 2021
 
 Message DB compatibility: [1.2.4](https://github.com/message-db/message-db/releases/tag/v1.2.4)
 
