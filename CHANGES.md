@@ -4,6 +4,8 @@
 
 Sun Mar 7 2020
 
+Message DB compatibility: [1.2.4](https://github.com/message-db/message-db/releases/tag/v1.2.4)
+
 - The `messages` tables columns are ordered for more efficient physical storage allocation.
 
 This version should not be considered an update to an existing database. It requires a new installation of the database, and therefore its advantages will only apply to new databases.
