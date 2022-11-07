@@ -1,11 +1,7 @@
 #!/usr/bin/env ruby
 
-root = File.expand_path '../database', __dir__
+require_relative '../script_init'
 
-script_filename = 'uninstall.sh'
-script_filepath = File.join root, script_filename
-system script_filepath
+run_database_script 'uninstall.sh'
 
-script_filename = 'install.sh'
-script_filepath = File.join root, script_filename
-system script_filepath
+run_database_script 'install.sh'
